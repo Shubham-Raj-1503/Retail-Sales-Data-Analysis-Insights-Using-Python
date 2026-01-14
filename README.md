@@ -120,7 +120,7 @@ pip install pandas matplotlib jupyter
 ### Running the Analysis
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Retail-Sales-Data-Analysis.git
+git clone https://github.com/Shubham-Raj-1503/Retail-Sales-Data-Analysis.git
 
 # Navigate to the project directory
 cd Retail-Sales-Data-Analysis
